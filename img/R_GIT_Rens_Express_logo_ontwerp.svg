@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Laag_1" data-name="Laag 1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 373.54 599.76">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: red;
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        opacity: .4;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect class="cls-1" x="0" y="270.64" width="327.56" height="58.48"/>
+    <rect class="cls-2" x="268.66" y="270.64" width="104.88" height="58.48"/>
+    <rect class="cls-1" x="0" y="80.71" width="327.56" height="58.48"/>
+    <polygon class="cls-1" points="268.05 519.05 157.53 329.12 216.01 329.12 326.54 519.05 268.05 519.05"/>
+    <rect class="cls-1" x="173.96" y="175.52" width="248.71" height="58.48" transform="translate(503.08 -93.55) rotate(90)"/>
+    <rect class="cls-2" x="210.93" y="80.71" width="162.61" height="58.48"/>
+    <rect class="cls-2" x="0" y="460.56" width="373.54" height="58.48"/>
+    <rect class="cls-1" x="-143.94" y="270.64" width="438.34" height="58.48" transform="translate(375.11 224.65) rotate(90)"/>
+    <rect class="cls-2" x="-.05" y="270.64" width="596.73" height="58.48" transform="translate(598.19 1.56) rotate(90)"/>
+    <rect class="cls-2" x="-223.14" y="270.64" width="596.73" height="58.48" transform="translate(375.11 224.65) rotate(90)"/>
+  </g>
+</svg>
